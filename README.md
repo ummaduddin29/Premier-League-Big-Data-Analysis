@@ -12,7 +12,7 @@ The Intermediate Datasets folder contains the ACTUAL data that we were able to u
 
 # We created two separate algorithms: Predict by Team Players & Predict by Team History.
 
-## Predict by Team Players
+## Algorithm 1: Predict by Team Players
 
 This algorithm comprises two main parts:
 
@@ -34,7 +34,7 @@ The second part involves a Linear Regression model that predicts the winners and
 You can watch a demonstration of this algorithm in action in [this video](https://youtu.be/waoNPUdPk1w).
 
 
-## Predict by Team History
+## Algorithm 2: Predict by Team History
 
 This algorithm utilizes historical data obtained from the Premier League Website to predict future games using the Poisson distribution algorithm. Here's a breakdown of the steps:
 
