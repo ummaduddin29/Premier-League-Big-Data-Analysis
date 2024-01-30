@@ -48,4 +48,8 @@ This algorithm utilizes historical data obtained from the Premier League Website
 ### Demo
 You can watch a demonstration of this algorithm in action in [this video](https://youtu.be/YgqQAc-qz9Y).
 
+# Tournament Bracket
 
+Using the algorithm **Predict by Team History**, we generated a randomized tournament bracket:
+
+![Project Image](Bracket-1.png)
